@@ -1,6 +1,6 @@
 ## Welcome
 
-This website provides an overview of our research on visually-grounded language in interactive settings. The work is jointly led by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) of the Language and Vision group led by at the University of Trento, [Barbara Plank](https://bplank.github.io/) of the Natural Language Processing group at the University of Copenhagen and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) of the Dialogue Modelling group at the University of Amsterdam. The three group leaders have equally contributed to all papers included here.
+This website provides an overview of our research on visually-grounded language in a continual learning setting. The work is jointly led by [Raffaella Bernardi](http://disi.unitn.it/~bernardi/) of the Language and Vision group led by at the University of Trento, [Barbara Plank](https://bplank.github.io/) of the Natural Language Processing group at the University of Copenhagen and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/) of the Dialogue Modelling group at the University of Amsterdam. The three group leaders have equally contributed to all papers included here.
 
 ## Contributors
 

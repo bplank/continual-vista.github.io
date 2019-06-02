@@ -10,7 +10,7 @@ This website provides an overview of our research on visually-grounded language 
       <img class="headshots" src='images/claudio.jpg' alt='Claudio Greco'>
     </td>
     <td>
-      <img class="headshots" src='images/barbara.png' alt='Barbara Plank'>
+      <img class="headshots" src='images/barbara.jpg' alt='Barbara Plank'>
     </td>
     <td>
       <img class="headshots" src='images/raquel.jpg' alt='Raquel Fern&aacute;ndez'>

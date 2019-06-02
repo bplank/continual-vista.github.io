@@ -49,4 +49,4 @@ Claudio Greco, Barbara Plank, Raquel Fern&aacute;ndez, and Raffaella Bernardi
     </div>
 </blockquote>
 
-PDF coming soon | Supplementary material coming soon | Code coming soon | Dataset coming soon
+PDF coming soon | Code coming soon | Dataset coming soon

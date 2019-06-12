@@ -49,4 +49,4 @@ Claudio Greco, Barbara Plank, Raquel Fern&aacute;ndez, and Raffaella Bernardi
     </div>
 </blockquote>
 
-[PDF](works/psycholinguistics_meets_catastrophic_forgetting/paper.pdf) | [PDF](works/psycholinguistics_meets_catastrophic_forgetting/supplementary.pdf) | Code coming soon | Dataset coming soon
+[PDF](assets/works/psycholinguistics_meets_catastrophic_forgetting/paper.pdf) | [PDF](assets/works/psycholinguistics_meets_catastrophic_forgetting/supplementary.pdf) | Code coming soon | Dataset coming soon
